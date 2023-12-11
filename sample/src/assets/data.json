@@ -1,0 +1,208 @@
+{
+  "items": [
+    {
+      "title": "vinterjacka",
+      "value": "foo"
+    },
+    {
+      "title": "Koftor",
+      "value": "bar"
+    },
+    {
+      "title": "Fizz",
+      "value": "fizz"
+    },
+    {
+      "title": "Buzz",
+      "value": "buzz"
+    }
+  ],
+  "item": [
+    {
+      "text": "Alla produkter",
+      "img": "https://sellpy-public-assets.s3.amazonaws.com/webApp/market/menu/buy/icons/menu_ico_BUYER_categories.svg"
+    },
+    {
+      "text": "Kvinna",
+      "append_icon": "mdi-chevron-right",
+      "img": "https://sellpy-public-assets.s3.amazonaws.com/webApp/market/menu/buy/icons/menu_ico_BUYER_woman.svg",
+      "sub_item": [
+        {
+          "text": "Kläder",
+          "append_icon": "mdi-chevron-right"
+        },
+        {
+          "text": "Skor",
+          "append_icon": "mdi-chevron-right"
+        },
+        {
+          "text": "Accessoarer",
+          "append_icon": "mdi-chevron-right"
+        }
+      ]
+    },
+    {
+      "text": "Man",
+      "append_icon": "mdi-chevron-right",
+      "img": "https://sellpy-public-assets.s3.amazonaws.com/webApp/market/menu/buy/icons/menu_ico_BUYER_man.svg",
+      "sub_item": [
+        {
+          "text": "Kläder",
+          "append_icon": "mdi-chevron-right"
+        },
+        {
+          "text": "Skor",
+          "append_icon": "mdi-chevron-right"
+        },
+        {
+          "text": "Accessoarer",
+          "append_icon": "mdi-chevron-right"
+        }
+      ]
+    },
+    {
+      "text": "Barn",
+      "append_icon": "mdi-chevron-right",
+      "img": "https://sellpy-public-assets.s3.amazonaws.com/webApp/market/menu/buy/icons/menu_ico_BUYER_kids.svg",
+      "sub_item": [
+        {
+          "text": "Kläder",
+          "append_icon": "mdi-chevron-right"
+        },
+        {
+          "text": "Skor",
+          "append_icon": "mdi-chevron-right"
+        },
+        {
+          "text": "Accessoarer",
+          "append_icon": "mdi-chevron-right"
+        }
+      ]
+    },
+    {
+      "text": "Prylar",
+      "append_icon": "mdi-chevron-right",
+      "img": "https://sellpy-public-assets.s3.amazonaws.com/webApp/market/menu/buy/icons/menu_ico_BUYER_items.svg",
+      "sub_item": [
+        {
+          "text": "Inredning",
+          "append_icon": "mdi-chevron-right"
+        },
+        {
+          "text": "Hushåll",
+          "append_icon": "mdi-chevron-right"
+        },
+        {
+          "text": "Barnartiklar & Leksaker",
+          "append_icon": "mdi-chevron-right"
+        },
+        {
+          "text": "Fritid",
+          "append_icon": "mdi-chevron-right"
+        },
+        {
+          "text": "Media & Spel",
+          "append_icon": "mdi-chevron-right"
+        },
+        {
+          "text": "Hemelektronik",
+          "append_icon": "mdi-chevron-right"
+        }
+      ]
+    },
+    {
+      "text": "Skönhet",
+      "append_icon": "mdi-chevron-right",
+      "img": "https://sellpy-public-assets.s3.amazonaws.com/webApp/market/menu/buy/icons/menu_ico_BUYER_beauty.svg",
+      "sub_item": [
+        {
+          "text": "Parfym",
+          "append_icon": "mdi-chevron-right"
+        },
+        {
+          "text": "Smink",
+          "append_icon": "mdi-chevron-right"
+        },
+        {
+          "text": "Hårvård",
+          "append_icon": "mdi-chevron-right"
+        },
+        {
+          "text": "Hudvård",
+          "append_icon": "mdi-chevron-right"
+        },
+        {
+          "text": "Handvård",
+          "append_icon": "mdi-chevron-right"
+        },
+        {
+          "text": "Övrigt",
+          "append_icon": "mdi-chevron-right"
+        }
+      ]
+    },
+    {
+      "text": "Nyinkommet",
+      "img": "https://sellpy-public-assets.s3.amazonaws.com/webApp/market/menu/buy/icons/menu_ico_BUYER_new_in.svg"
+    }
+  ],
+  "item2": [
+    {
+      "text": "Sälj med Sellpy",
+      "img": "https://sellpy-public-assets.s3.amazonaws.com/webApp/market/menu/sell/icons/menu_ico_SELLER_sell.svg"
+    },
+    {
+      "text": "Beställ Sellpy-påse",
+      "img": "https://sellpy-public-assets.s3.amazonaws.com/webApp/market/menu/sell/icons/menu_ico_SELLER_order_bag.svg"
+    },
+    {
+      "text": "Boka upphämtning",
+      "img": "https://sellpy-public-assets.s3.amazonaws.com/webApp/market/menu/sell/icons/menu_ico_SELLER_order_pickup.svg"
+    },
+    {
+      "text": "Hur funkar det?",
+      "img": "https://sellpy-public-assets.s3.amazonaws.com/webApp/market/menu/sell/icons/menu_ico_SELLER_how_does_it_works.svg"
+    },
+    {
+      "text": "Vad kostar det?",
+      "img": "https://sellpy-public-assets.s3.amazonaws.com/webApp/market/menu/sell/icons/menu_ico_SELLER_cost.svg"
+    },
+    {
+      "text": "Sälj dina köp",
+      "img": "https://sellpy-public-assets.s3.amazonaws.com/webApp/market/menu/sell/icons/menu_ico_SELLER_circle.svg"
+    },
+    {
+      "text": "Om oss",
+      "img": "https://sellpy-public-assets.s3.amazonaws.com/webApp/market/menu/sell/icons/menu_ico_SELLER_circle.svg"
+    }
+  ],
+  "sec1_data": [
+    {
+      "img": "https://assets-global.website-files.com/63eb8f00ccfebbae94a211eb/6419ca680c40979547446e2d_Sound%20Science.webp",
+      "title": "Sound <br> Science",
+      "text": [
+        "Music Curation",
+        "Music Strategy",
+        "Experience Design"
+      ]
+    },
+    {
+      "img": "https://assets-global.website-files.com/63eb8f00ccfebbae94a211eb/6419ca659775a812f9b94f4b_What%20We%20Do.webp",
+      "title": "What<br>we do",
+      "text": [
+        "Brand Recognition",
+        "Playlist Curators",
+        "Customer Exp"
+      ]
+    },
+    {
+      "img": "https://assets-global.website-files.com/63eb8f00ccfebbae94a211eb/6419ca6419acee51c5d8a664_Spaces.webp",
+      "title": "The<br>spaces",
+      "text": [
+        "Sound Design",
+        "Live Bands & DJs",
+        "Brand Recognition"
+      ]
+    }
+  ]
+}
